@@ -1,0 +1,18 @@
+ELU 7 layers 40 epochs;0.7534722222222222
++Relu6;0.7597222222222222
+cleared dataset normal_form no dots and commas;20;0.7840277777777778
+5000 epochs best model decision;5000;0.8325292901447279
++test batch;20;0.7799227799227799
+added sheduler;200;0.8348745046235139
+add model.zero_grad;200;0.8328840970350404
+new mean embender\;200;0.6525345622119816
+add get_elmo_substitutes for sentence emb;200;0.8804500703234881
+pretty interface;400;0.8812430632630411
+pretty interface;200;0.8723897911832946
+add best_model;200;0.8723897911832946
+bestmodel;200;0.8782707622298066
+added dropout;200;0.8729792147806006
+CATBOOST;0.7023086269744836
+CATBOOST MORE ITER;0.8165680473372781
+eval_set=eval_dataset, verbose=False;0.8541176470588235
+added train on val;0.863849765258216
